@@ -12,6 +12,7 @@ Starting by developing simple deck and card classes to track those metrics
 ### Deck
 Created a deck class/object to create the deck of cards used throughout the game 
 - Starts with constuctor creating an empty list deck then in the constuctor calling create_deck which creates a deck full of the card objects 
+- You will notice I say clovers instead of clubs, thats an ongoing joke with my friends. I'm for some reason not good (reason why I never wanted to be a doctor) with words but the club looks like a clover to me, a 3-leaf clover. 
 
 ### Card
 Created a class/object card that basically just stores the number/class and the suit 
