@@ -13,10 +13,14 @@ Starting by developing simple deck and card classes to track those metrics
 Created a deck class/object to create the deck of cards used throughout the game 
 - Starts with constuctor creating an empty list deck then in the constuctor calling create_deck which creates a deck full of the card objects 
 - You will notice I say clovers instead of clubs, thats an ongoing joke with my friends. I'm for some reason not good (reason why I never wanted to be a doctor) with words but the club looks like a clover to me, a 3-leaf clover.
-- A shuffle function created using pythons random import which changes index locations of card objects 
+- A shuffle function created using pythons random import which changes index locations of card objects
+- A deal function that deals one standard card 
 
 ### Card
 Created a class/object card that basically just stores the number/class and the suit 
 - __str__ outputs the string text of cards
+
+### Hand 
+Created a class/object hand that initially takes an empty hand which get filled after deciding the game  
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/81129a61-766d-47c7-87f2-2a6eed485eef" />
