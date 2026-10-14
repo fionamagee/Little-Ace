@@ -23,4 +23,7 @@ Created a class/object card that basically just stores the number/class and the 
 ### Hand 
 Created a class/object hand that initially takes an empty hand which get filled after deciding the game  
 
+### Player 
+Defined a player class for now just including name but later will proceed with further implmentation
+
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/81129a61-766d-47c7-87f2-2a6eed485eef" />
