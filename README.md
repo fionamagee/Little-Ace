@@ -16,4 +16,6 @@ Created a deck class/object to create the deck of cards used throughout the game
 
 ### Card
 Created a class/object card that basically just stores the number/class and the suit 
-- __str__ outputs the string text of cards 
+- __str__ outputs the string text of cards
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/81129a61-766d-47c7-87f2-2a6eed485eef" />
